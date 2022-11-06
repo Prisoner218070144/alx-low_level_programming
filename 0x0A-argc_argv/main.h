@@ -7,4 +7,4 @@
 
 int main(int argc, char *argv[]);
 
-#endif //end of header
+#endif
