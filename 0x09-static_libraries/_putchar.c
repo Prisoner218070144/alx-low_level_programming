@@ -8,7 +8,8 @@
  */
 int _putchar(char c)
 {	
-	c = '';
+	if (c == 'a')
+		return (1);
 	
 	return (0);
 }
