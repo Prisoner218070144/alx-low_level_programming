@@ -5,6 +5,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-int main(int argc, char *argv[]);
+int main (int argc, char *argv[]);
 
 #endif //end of header
