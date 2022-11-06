@@ -8,5 +8,9 @@
  */
 int _putchar(char c)
 {
+	char p;
+	
+	p = c;
+	
 	return (0);
 }

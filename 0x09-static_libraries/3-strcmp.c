@@ -10,5 +10,12 @@
   
 int _strcmp(char *s1, char *s2)
 {
+	char sp;
+	char sp2;
+	
+	sp = s1;
+	
+	sp2 = s2;
+	
 	return (0);
 }
