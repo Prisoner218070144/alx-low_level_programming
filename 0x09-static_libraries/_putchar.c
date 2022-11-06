@@ -7,10 +7,8 @@
  * Return: 0
  */
 int _putchar(char c)
-{
-	char p;
-	
-	p = c;
+{	
+	c = '';
 	
 	return (0);
 }
