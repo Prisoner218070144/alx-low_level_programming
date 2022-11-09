@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
-  * alloc_grid - ...
-  * @width: ...
-  * @height: ...
+  * alloc_grid -  2 dimensional array of integers
+  * @width: width of the grid
+  * @height: height of the grid
   *
-  * Return: ...
+  * Return: NULL
   */
 int **alloc_grid(int width, int height)
 {
